@@ -1,6 +1,6 @@
-<model-viewer src="chinese_candlestickc.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1" auto-rotate>
-    <button class="Hotspot" slot="hotspot-2" data-position="0.01226138099965209m 0.4292806825172847m 0.032308541390689074m" data-normal="0.8498845943628137m 0.40911812336011577m 0.3321423450917587m" data-visibility-attribute="visible">
-        <div class="HotspotAnnotation">head</div>
+<model-viewer src="platec.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="poster.webp" shadow-intensity="1" auto-rotate>
+    <button class="Hotspot" slot="hotspot-1" data-position="1.088686651889071m 4.447594914767214m 0.13009950166951118m" data-normal="0.036280162250915834m 0.15300138994120827m 0.9875597827489259m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">hotpot</div>
     </button>
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
